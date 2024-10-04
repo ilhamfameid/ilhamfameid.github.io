@@ -253,6 +253,7 @@ section{
 .about .row .content h3{
     font-size: 3rem;
     color:#fff;
+    margin-top : -70px;
 }
 
 .about .row .content p{
@@ -556,17 +557,6 @@ section{
 .footer .credit span{
     color:var(--main-color);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* media queries  */
